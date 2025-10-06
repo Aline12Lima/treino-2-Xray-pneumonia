@@ -1,0 +1,10 @@
+
+novo_ambiente/
+dataset/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+*.keras
+*.h5
+*.log
+*.csv
