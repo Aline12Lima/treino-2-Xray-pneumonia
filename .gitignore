@@ -7,4 +7,4 @@ __pycache__/
 *.keras
 *.h5
 *.log
-*.csv
+*.csvvenv/
